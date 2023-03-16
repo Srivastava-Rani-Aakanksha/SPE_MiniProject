@@ -1,0 +1,6 @@
+2023-03-16 22:04:33.292 [main] INFO  org.example.Main_ScientificCalculator - Factorial =  5
+2023-03-16 22:04:33.302 [main] INFO  org.example.Main_ScientificCalculator - RESULT - FACTORIAL = 120
+2023-03-16 22:06:54.978 [main] INFO  org.example.Main_ScientificCalculator - [POWER of  4 TO THE ] 4
+2023-03-16 22:06:54.983 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  256.0
+2023-03-16 22:08:20.132 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 6
+2023-03-16 22:08:20.139 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 1.791759469228055
