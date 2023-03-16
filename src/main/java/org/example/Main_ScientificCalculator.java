@@ -4,9 +4,9 @@ import org.apache.logging.log4j.Logger;
 import java.util.Scanner;
 
 public class Main_ScientificCalculator {
-    private static final Logger logger = LogManager.getLogger(ScientificCalculator.class);
+    private static final Logger logger = LogManager.getLogger(Main_ScientificCalculator.class);
 
-    public ScientificCalculator() {}
+    public Main_ScientificCalculator() {}
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
        Main_ScientificCalculator scientificCalculatorObj = new Main_ScientificCalculator();
@@ -14,7 +14,7 @@ public class Main_ScientificCalculator {
             System.out.println("Please Enter the operation that you want to perform:-  \n Press 1 to find square root \n Press 2 to find the factorial \n Press 3 to find the log \n Press 4 to find the power \n Press else to exit");
             int option = sc.nextInt();
             if (option == 1) {
-                System.out.println("Enter number to calculate square root");
+                System.out.println("Enter number to calculate square root : ");
                 int number = sc.nextInt();
                 double ans = scientificCalculatorObj.squareRoot(number);
                 System.out.println("The square root of " + number + " is:- " + ans);
