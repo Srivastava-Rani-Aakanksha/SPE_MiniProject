@@ -4,3 +4,67 @@
 2023-03-16 22:06:54.983 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  256.0
 2023-03-16 22:08:20.132 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 6
 2023-03-16 22:08:20.139 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 1.791759469228055
+2023-03-20 18:39:06.775 [main] INFO  org.example.Main_ScientificCalculator - [SQ ROOT] - 9
+2023-03-20 18:39:06.779 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - SQ ROOT] - 3.0
+2023-03-20 18:39:06.780 [main] INFO  org.example.Main_ScientificCalculator - [SQ ROOT] - 16
+2023-03-20 18:39:06.780 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - SQ ROOT] - 4.0
+2023-03-20 18:39:06.782 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 10
+2023-03-20 18:39:06.782 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 2.302585092994046
+2023-03-20 18:39:06.783 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 20
+2023-03-20 18:39:06.783 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 2.995732273553991
+2023-03-20 18:39:06.784 [main] INFO  org.example.Main_ScientificCalculator - Factorial =  5
+2023-03-20 18:39:06.784 [main] INFO  org.example.Main_ScientificCalculator - RESULT - FACTORIAL = 120
+2023-03-20 18:39:06.785 [main] INFO  org.example.Main_ScientificCalculator - Factorial =  4
+2023-03-20 18:39:06.785 [main] INFO  org.example.Main_ScientificCalculator - RESULT - FACTORIAL = 24
+2023-03-20 18:39:06.790 [main] INFO  org.example.Main_ScientificCalculator - [POWER of  2 TO THE ] 3
+2023-03-20 18:39:06.791 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  8.0
+2023-03-20 18:39:06.791 [main] INFO  org.example.Main_ScientificCalculator - [POWER of  4 TO THE ] 2
+2023-03-20 18:39:06.791 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  16.0
+2023-03-20 18:40:25.922 [main] INFO  org.example.Main_ScientificCalculator - [SQ ROOT] - 9
+2023-03-20 18:40:25.927 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - SQ ROOT] - 3.0
+2023-03-20 18:40:25.927 [main] INFO  org.example.Main_ScientificCalculator - [SQ ROOT] - 16
+2023-03-20 18:40:25.928 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - SQ ROOT] - 4.0
+2023-03-20 18:40:25.929 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 10
+2023-03-20 18:40:25.930 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 2.302585092994046
+2023-03-20 18:40:25.930 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 20
+2023-03-20 18:40:25.931 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 2.995732273553991
+2023-03-20 18:40:25.932 [main] INFO  org.example.Main_ScientificCalculator - Factorial =  5
+2023-03-20 18:40:25.933 [main] INFO  org.example.Main_ScientificCalculator - RESULT - FACTORIAL = 120
+2023-03-20 18:40:25.934 [main] INFO  org.example.Main_ScientificCalculator - Factorial =  4
+2023-03-20 18:40:25.934 [main] INFO  org.example.Main_ScientificCalculator - RESULT - FACTORIAL = 24
+2023-03-20 18:40:25.942 [main] INFO  org.example.Main_ScientificCalculator - [POWER of  2 TO THE ] 3
+2023-03-20 18:40:25.943 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  8.0
+2023-03-20 18:40:25.943 [main] INFO  org.example.Main_ScientificCalculator - [POWER of  4 TO THE ] 2
+2023-03-20 18:40:25.944 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  16.0
+2023-03-20 18:41:18.120 [main] INFO  org.example.Main_ScientificCalculator - [SQ ROOT] - 9
+2023-03-20 18:41:18.125 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - SQ ROOT] - 3.0
+2023-03-20 18:41:18.125 [main] INFO  org.example.Main_ScientificCalculator - [SQ ROOT] - 16
+2023-03-20 18:41:18.126 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - SQ ROOT] - 4.0
+2023-03-20 18:41:18.127 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 10
+2023-03-20 18:41:18.128 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 2.302585092994046
+2023-03-20 18:41:18.128 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 20
+2023-03-20 18:41:18.128 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 2.995732273553991
+2023-03-20 18:41:18.129 [main] INFO  org.example.Main_ScientificCalculator - Factorial =  5
+2023-03-20 18:41:18.129 [main] INFO  org.example.Main_ScientificCalculator - RESULT - FACTORIAL = 120
+2023-03-20 18:41:18.130 [main] INFO  org.example.Main_ScientificCalculator - Factorial =  4
+2023-03-20 18:41:18.130 [main] INFO  org.example.Main_ScientificCalculator - RESULT - FACTORIAL = 24
+2023-03-20 18:41:18.136 [main] INFO  org.example.Main_ScientificCalculator - [POWER of  2 TO THE ] 3
+2023-03-20 18:41:18.136 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  8.0
+2023-03-20 18:41:18.137 [main] INFO  org.example.Main_ScientificCalculator - [POWER of  4 TO THE ] 2
+2023-03-20 18:41:18.137 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  16.0
+2023-03-20 18:42:32.417 [main] INFO  org.example.Main_ScientificCalculator - [SQ ROOT] - 9
+2023-03-20 18:42:32.422 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - SQ ROOT] - 3.0
+2023-03-20 18:42:32.423 [main] INFO  org.example.Main_ScientificCalculator - [SQ ROOT] - 16
+2023-03-20 18:42:32.423 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - SQ ROOT] - 4.0
+2023-03-20 18:42:32.425 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 10
+2023-03-20 18:42:32.425 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 2.302585092994046
+2023-03-20 18:42:32.426 [main] INFO  org.example.Main_ScientificCalculator - [NATURAL LOG] - 20
+2023-03-20 18:42:32.426 [main] INFO  org.example.Main_ScientificCalculator - [RESULT - NATURAL LOG] - 2.995732273553991
+2023-03-20 18:42:32.427 [main] INFO  org.example.Main_ScientificCalculator - Factorial =  5
+2023-03-20 18:42:32.428 [main] INFO  org.example.Main_ScientificCalculator - RESULT - FACTORIAL = 120
+2023-03-20 18:42:32.428 [main] INFO  org.example.Main_ScientificCalculator - Factorial =  4
+2023-03-20 18:42:32.428 [main] INFO  org.example.Main_ScientificCalculator - RESULT - FACTORIAL = 24
+2023-03-20 18:42:32.434 [main] INFO  org.example.Main_ScientificCalculator - [POWER of  2 TO THE ] 3
+2023-03-20 18:42:32.435 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  8.0
+2023-03-20 18:42:32.435 [main] INFO  org.example.Main_ScientificCalculator - [POWER of  4 TO THE ] 2
+2023-03-20 18:42:32.435 [main] INFO  org.example.Main_ScientificCalculator - [RESULT  POWER]  16.0
