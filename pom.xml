@@ -60,7 +60,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>Main_ScientificCalculator</mainClass>
+                                    <mainClass>org.example.Main_ScientificCalculator</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
