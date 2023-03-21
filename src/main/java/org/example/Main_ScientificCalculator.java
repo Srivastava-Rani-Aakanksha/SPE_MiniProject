@@ -11,7 +11,7 @@ public class Main_ScientificCalculator {
         Scanner sc = new Scanner(System.in);
        Main_ScientificCalculator scientificCalculatorObj = new Main_ScientificCalculator();
         while(true) {
-            System.out.println("SCIENTIFIC CALCULATOR");
+            System.out.println("SCIENTIFIC CALCULATOR \n");
             System.out.println("Please Enter the operation that you want to perform:-  \n Press 1 to find square root \n Press 2 to find the factorial \n Press 3 to find the log \n Press 4 to find the power \n Press else to exit");
             int option = sc.nextInt();
             if (option == 1) {
