@@ -10,7 +10,7 @@ public class Main_ScientificCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
        Main_ScientificCalculator scientificCalculatorObj = new Main_ScientificCalculator();
-        System.out.println("SCIENTIFIC CALCULATOR\n");
+        System.out.println("SCIENTIFIC CALCULATOR \n");
         while(true) {
             System.out.println("Please Enter the operation that you want to perform:-  \n Press 1 to find square root \n Press 2 to find the factorial \n Press 3 to find the log \n Press 4 to find the power \n Press else to exit");
             int option = sc.nextInt();
